@@ -1,4 +1,4 @@
 # demo_repo
 This is my first repo.
 <br>
-Author - Talha  Chougle
+Author - Talha Chougle (iamtc)
